@@ -1,4 +1,4 @@
-# Weather-API-JS
+# Weather-APP-API-JS
 ## Use HTML, CSS, and JavaScript to create a fully functional weather app using an API.
 
 ## Home Page
